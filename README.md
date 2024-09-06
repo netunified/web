@@ -1,8 +1,13 @@
 ```bash
-function whoami() {
-  printf "Developer, gamer, hobbyist, etc"
-  return 0
+aboutme() {
+<<EOF
+      Developer
+      Hobbyist
+      Reader
+      Gamer
+      ...
+EOF
 }
 
-whoami
+aboutme
 ```
