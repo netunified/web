@@ -1,4 +1,4 @@
-# about me 
+# about me
 
 ```console
 netunified@dev:/home/netunified$ cat aboutme.txt
@@ -8,7 +8,7 @@ Hobbyist
 Gamer
 ```
 
-## leetcode
+## [leetcode](./leetcode.md)
 
 ```console
 netunified@dev:/home/netunified$ cd leetcode
