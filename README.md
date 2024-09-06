@@ -1,13 +1,8 @@
-```bash
-aboutme() {
-<<EOF
-      Developer
-      Hobbyist
-      Reader
-      Gamer
-      ...
-EOF
-}
+# About me
 
-aboutme
+```bash
+-> Developer
+-> Hobbyist
+-> Reader
+-> Gamer
 ```
