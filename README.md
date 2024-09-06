@@ -7,3 +7,9 @@ Bookworm
 Hobbyist
 Gamer
 ```
+
+## leetcode
+
+```console
+netunified@dev:/home/netunified$ cd leetcode
+```
