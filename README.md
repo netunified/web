@@ -1,5 +1,3 @@
-# netunified
-
 ```bash
 function whoami() {
   printf "Developer, gamer, hobbyist, etc"
