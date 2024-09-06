@@ -1,3 +1,8 @@
-# Badges
+# leetcode
 
-![50 Days Badge 2024](./2024-50.gif)
+```console
+netunified@dev:/home/netunified/leetcode$ ls badges
+
+```
+
+![50Day](./2024-50.gif =100x100)

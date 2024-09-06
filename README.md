@@ -1,8 +1,9 @@
 # About me
 
-```bash
--> Developer
--> Hobbyist
--> Reader
--> Gamer
+```console
+netunified@dev:/home/netunified$ aboutme
+Developer
+Bookworm
+Hobbyist
+Gamer
 ```
