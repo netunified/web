@@ -4,5 +4,4 @@
 netunified@dev:/home/netunified/leetcode$ ls badges
 
 ```
-
-![50Day](./2024-50.gif =100x100)
+<img src="./assets/2024-50.gif" alt="leetcode-50-day" width="200" height="200"/>
