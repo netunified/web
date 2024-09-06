@@ -1,7 +1,7 @@
-# about me
+# about me 
 
 ```console
-netunified@dev:/home/netunified$ aboutme
+netunified@dev:/home/netunified$ cat aboutme.txt
 Developer
 Bookworm
 Hobbyist
